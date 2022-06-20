@@ -117,7 +117,7 @@ void loop() {
       Deltat = timetwo - timeone;
       if(Deltat != 0){
       Velocity = 3.0/Deltat;
-      vsecond = Velocity * 10.0; 
+      vsecond = Velocity * 1000.0; 
       flowrate = 3.14 * 0.5 * 0.5 * vsecond;
       }
       }
