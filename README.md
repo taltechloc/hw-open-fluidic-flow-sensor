@@ -9,7 +9,7 @@
 
 *Designed by: Nicky Andre Prabatama.*
 *Please be kind and cite me if you use my designs:*
-- Original source: (forthcoming thesis and conference paper)
+- Original source: https://doi.org/10.1109/BEC56180.2022.9935606
 
 ## Construction and use
 
